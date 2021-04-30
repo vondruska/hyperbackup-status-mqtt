@@ -1,5 +1,10 @@
 name: 'Shell Check'
 
+on:
+  push:
+    paths-ignore:
+    - '*.md'
+
 jobs:
   shellcheck:
     name: Shellcheck
