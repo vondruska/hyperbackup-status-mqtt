@@ -6,7 +6,7 @@ Based on the amazing work from [WAdama/nas_hb_status](https://github.com/WAdama/
 
 The sensor will show the status of the backups, integrity, time passed since the last backup & integrity check, size and changed size of data. The data is collected from */var/log/synolog/synobackup.log* & */var/log/messages*.
 
-Tested on DS 918+ with DSM 6.2.4-25556 and Hyper Backup 2.2.6-1316 
+Tested on DS 918+ with DSM 6.2.4-25556 and Hyper Backup 2.2.7-1374 
 
 ### Prerequistes / Dependencies
 
